@@ -247,10 +247,7 @@ footer {
     padding: 20px;
 }
 
-/* =========================
-   RESPONSIVE MEDIA QUERIES
-   ========================= */
-
+/*  RESPONSIVE MEDIA QUERIES */
 /* MOBILE (<=768px) */
 @media (max-width: 768px) {
 
